@@ -1,4 +1,5 @@
 # CS Project 2021-22
+## Snake Game ##
 2021-22 cs project
 ### Snake Game made by Arnav, Jeel and Chinmay ###
 I hope you will like it
