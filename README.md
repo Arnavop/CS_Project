@@ -10,4 +10,4 @@ A new window should pop-up which is the game window
 ![image](https://user-images.githubusercontent.com/72515652/151769054-fb998b66-1c7c-48ff-8166-ca970c538649.png)
 
 
-## Thank YOU :) ##
+## THANK YOU :) ##
